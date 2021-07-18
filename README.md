@@ -1,6 +1,11 @@
-# solo_system
+### solo system
 
----
+-----
+
+project to play stock trading strategies  
 
 
-created temp readme file 
+Contributors
+
+- BA/Sponsor: [Solo](https://github.com/soloessence) 
+- Dev: [Mick](https://github.com/8dspaces) 
